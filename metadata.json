@@ -1,0 +1,8 @@
+{
+  "name": "侠影五千年",
+  "description": "国风水墨武侠割草肉鸽动作游戏，融合绝学超武合成、轻功身法破招与动态首领战。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
